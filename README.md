@@ -11,6 +11,10 @@ Welcome to **ZeroDayLibrary**, a curated repository dedicated to providing an ex
   
 - [2. LINUX BASICS FOR HACKERS](https://github.com/theNareshofficial/ZeroDayLibrary/blob/main/Linux%20Basics%20for%20Hackers.pdf)
 
+### Cheat Sheet
+
+- [1. Beginners Python Cheat Sheet](https://github.com/theNareshofficial/ZeroDayLibrary/blob/main/beginners_python_cheat_sheet_pcc_all.pdf)
+
 ## 🤝 Contributing
 We welcome contributions! If you have a book or resource to share, feel free to:  
 1. Fork this repository.  
