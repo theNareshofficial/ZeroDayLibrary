@@ -11,6 +11,8 @@ Welcome to **ZeroDayLibrary**, a curated repository dedicated to providing an ex
   
 - [2. LINUX BASICS FOR HACKERS](https://github.com/theNareshofficial/ZeroDayLibrary/blob/main/Linux%20Basics%20for%20Hackers.pdf)
 
+- [3. Python for Offensive PenTest](https://github.com/theNareshofficial/ZeroDayLibrary/blob/main/Python%20for%20Offensive%20PenTest.pdf)
+
 ### Cheat Sheet
 
 - [1. Beginners Python Cheat Sheet](https://github.com/theNareshofficial/ZeroDayLibrary/blob/main/beginners_python_cheat_sheet_pcc_all.pdf)
