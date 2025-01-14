@@ -15,6 +15,8 @@ Welcome to **ZeroDayLibrary**, a curated repository dedicated to providing an ex
 
 - [4. INTRODUCTION TO BLUETOOTH HACKING](https://github.com/theNareshofficial/ZeroDayLibrary/blob/main/INTRODUCTION%20TO%20BLUETOOTH%20HACKING.pdf)
 
+- [5. Hacker CookBook](https://github.com/theNareshofficial/ZeroDayLibrary/blob/main/Hacker%20cook%20book.pdf)
+
 ### Cheat Sheet
 
 - [1. Beginners Python Cheat Sheet](https://github.com/theNareshofficial/ZeroDayLibrary/blob/main/beginners_python_cheat_sheet_pcc_all.pdf)
