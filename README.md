@@ -21,6 +21,8 @@ Welcome to **ZeroDayLibrary**, a curated repository dedicated to providing an ex
 
 - [1. Beginners Python Cheat Sheet](https://github.com/theNareshofficial/ZeroDayLibrary/blob/main/beginners_python_cheat_sheet_pcc_all.pdf)
 
+- [2 Kali Linux Cheat Sheet](https://github.com/theNareshofficial/ZeroDayLibrary/blob/main/Kali-Linux-Cheat-Sheet.pdf)
+
 ## 🤝 Contributing
 We welcome contributions! If you have a book or resource to share, feel free to:  
 1. Fork this repository.  
